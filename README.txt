@@ -5,6 +5,4 @@ This is a new line in branch edit
 
 Added one line in main branch
 
-helllo from edit branch
-
-new line in main branch
+edit from branch edits
